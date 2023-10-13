@@ -46,13 +46,10 @@ public class ASCIIDecoder {
                 }
 
             }
-            System.out.println(calculating_word.toString());
-            System.out.println(calculating_word.toString());
             final_sentence[i] = calculating_word.toString();
             i += 1;
 
         }
-        System.out.println(final_sentence[0]);
          return final_sentence;
 
     }
