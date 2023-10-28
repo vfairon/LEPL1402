@@ -120,7 +120,7 @@ public class FourInARowTest {
     }
 
 
-/*
+    @Test
     @Grade(value = 1, cpuTimeout = 1000)
     public void test2() {
 
@@ -143,5 +143,5 @@ public class FourInARowTest {
         });
 
     }
-*/
+
 }
