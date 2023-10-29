@@ -54,7 +54,7 @@ public class FourInARow {
             System.out.println(board[5][0]);
             if (board[i][j] == EMPTY){
                 board[i][j] = player;
-                return;
+                break;
             }
         }
     }
