@@ -1,0 +1,3 @@
+c'est un peu trop déterministe ca je trouve.... ca voudrait dire que tu nait avec un capital intelligence et que donc tu ne peux pas l'améliorer : " c'est pas quelque chose que tu peux choisir vu que ça fait partie de toi"
+
+Je suis d'accord que l'intelligence est quelque chose qui te définit qui pour moi est composé de ce que tu SAIS et ce que tu SAIS FAIRE. Je sais parler francais, je sais t'aimer (intelligence émotionnelle), je sais faire des maths (intelligence dans le raisonnement), j'ai de l'intelligence au niveau des langues... mais je n'ai pas de mémoire, je ne retiens pas les petites choses, je n'écoute pas toujours tout (également intelligence émotionnelle),...
