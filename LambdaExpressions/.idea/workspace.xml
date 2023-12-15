@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e029a1ee-3451-420b-bff7-3cc8dfa9fb53" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Zah9RfViITmTSUfR5MZAl0bIOH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/vfair/IdeaProjects"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.LambdaExpressionsTest.testCountInstancesOfLetter">
+    <configuration name="LambdaExpressionsTest.testComputeFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pcj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fp" />
+      <option name="MAIN_CLASS_NAME" value="fp.LambdaExpressionsTest" />
+      <option name="METHOD_NAME" value="testComputeFactorial" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionsTest.testComputeMinMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pcj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fp" />
+      <option name="MAIN_CLASS_NAME" value="fp.LambdaExpressionsTest" />
+      <option name="METHOD_NAME" value="testComputeMinMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionsTest.testConcatenateStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pcj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fp" />
+      <option name="MAIN_CLASS_NAME" value="fp.LambdaExpressionsTest" />
+      <option name="METHOD_NAME" value="testConcatenateStrings" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionsTest.testCountInstancesOfLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pcj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fp" />
+      <option name="MAIN_CLASS_NAME" value="fp.LambdaExpressionsTest" />
+      <option name="METHOD_NAME" value="testCountInstancesOfLetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionsTest.testListOfStringsToLowerCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pcj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fp" />
+      <option name="MAIN_CLASS_NAME" value="fp.LambdaExpressionsTest" />
+      <option name="METHOD_NAME" value="testListOfStringsToLowerCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LambdaExpressionsTest.testCountInstancesOfLetter" />
+        <item itemvalue="JUnit.LambdaExpressionsTest.testComputeMinMax" />
+        <item itemvalue="JUnit.LambdaExpressionsTest.testConcatenateStrings" />
+        <item itemvalue="JUnit.LambdaExpressionsTest.testListOfStringsToLowerCase" />
+        <item itemvalue="JUnit.LambdaExpressionsTest.testComputeFactorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e029a1ee-3451-420b-bff7-3cc8dfa9fb53" name="Changes" comment="" />
+      <created>1702665946473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702665946473</updated>
+    </task>
+    <servers />
+  </component>
+</project>
